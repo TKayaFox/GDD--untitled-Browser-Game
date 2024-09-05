@@ -1,0 +1,7 @@
+Naming Conventions
+	Object: O_Name
+	Room:	R_Name
+	Sound:	Se_Sound
+	Sprite:	Sp_Sprite
+	Scripts: Upper_Camel
+	variables: lower_camel	
