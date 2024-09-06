@@ -1,2 +1,2 @@
 /// @description Kill Player on out of bounds
-Player_Movement();
+Player_Death();
