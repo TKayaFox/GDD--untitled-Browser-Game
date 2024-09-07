@@ -8,10 +8,10 @@ if (ableToMove)
 {
 	
 	//Get Key Inputs
-	var moveLeft = -(keyboard_check(vk_left));
-	var moveRight = keyboard_check(vk_right);
-	var jump = keyboard_check_pressed(vk_up);
-	var jumpHeld = keyboard_check(vk_up);
+	var moveLeft = -keyboard_check(ord("A"));
+	var moveRight = keyboard_check(ord("D"));
+	var jump = keyboard_check_pressed(ord("W"));
+	var jumpHeld = keyboard_check(ord("W"));
 
 
 	//Speed determination
@@ -27,9 +27,6 @@ if (ableToMove)
 	{
 		playerState = IDLE;
 	}
-
-
-
 
 	//Get last pressed direction
 	if ((moveRight + moveLeft) != 0) 
@@ -113,6 +110,7 @@ if (ableToMove)
 	
 		hsp = 0;
 	} //if
+	
 	
 	//Posistion adjustment
 	x += hsp;
