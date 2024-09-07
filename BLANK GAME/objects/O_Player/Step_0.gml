@@ -91,15 +91,17 @@ if (ableToMove)
 	} //if
 
 	//Jumping Falling state setter
-	if (vsp < 0) 
+	if (!grounded) 
 	{
-		playerState = JUMPING;
+		if (vsp <= 0) 
+		{
+			playerState = JUMPING;
+		}
+		else if (vsp > 0)
+		{
+			playerState = FALLING;
+		}
 	}
-	else if (vsp > 0)
-	{
-		playerState = FALLING;
-	}
-
 
 	//Horizantal Collision
 	if (place_meeting(x + hsp, y, O_Collision)) 
