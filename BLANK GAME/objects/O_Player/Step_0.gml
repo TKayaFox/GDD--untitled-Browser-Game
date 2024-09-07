@@ -4,7 +4,7 @@
 //Player_Movement();
 
 
-if (ableToMove) 
+if (able_to_move) 
 {
 	
 	//Get Key Inputs
@@ -15,23 +15,23 @@ if (ableToMove)
 
 
 	//Speed determination
-	hsp = (moveRight + moveLeft) * moveSpeed;
+	hsp = (moveRight + moveLeft) * move_speed;
 	vsp += grav;
 
 	//Running Idle state setter
 	if (hsp != 0) 
 	{
-		playerState = RUNNING;
+		player_state = RUNNING;
 	} 
 	else
 	{
-		playerState = IDLE;
+		player_state = IDLE;
 	}
 
 	//Get last pressed direction
 	if ((moveRight + moveLeft) != 0) 
 	{
-		lastDirection = moveRight + moveLeft;
+		last_direction = moveRight + moveLeft;
 	} //if
 
 
@@ -47,7 +47,7 @@ if (ableToMove)
 	if (jump && (jumps > 0)) 
 	{
 		vsp = 0;
-		vsp	-= jumpSpeed;
+		vsp	-= jump_speed;
 		jumps--;
 	
 		if (!grounded)
@@ -64,7 +64,7 @@ if (ableToMove)
 
 	if (vsp < 0 and !jumpHeld)
 	{
-		vsp = max(vsp, -jumpSpeed/2);
+		vsp = max(vsp, -jump_speed/2);
 	} //if
 
 
@@ -79,7 +79,7 @@ if (ableToMove)
 
 		if (sign(vsp) >= 0) 
 		{
-			jumps = maxJumps;
+			jumps = max_jumps;
 			grounded = true;
 		} //if
 	
@@ -92,11 +92,11 @@ if (ableToMove)
 	{
 		if (vsp <= 0) 
 		{
-			playerState = JUMPING;
+			player_state = JUMPING;
 		}
 		else if (vsp > 0)
 		{
-			playerState = FALLING;
+			player_state = FALLING;
 		}
 	}
 
