@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Goal",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Goal",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sp_Goal",
+    "path":"sprites/Sp_Goal/Sp_Goal.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
