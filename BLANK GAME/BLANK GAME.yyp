@@ -69,6 +69,7 @@
     {"id":{"name":"R_Tab_1","path":"rooms/R_Tab_1/R_Tab_1.yy",},},
     {"id":{"name":"R_Tab_2","path":"rooms/R_Tab_2/R_Tab_2.yy",},},
     {"id":{"name":"R_Tab_3","path":"rooms/R_Tab_3/R_Tab_3.yy",},},
+    {"id":{"name":"R_Tab_4","path":"rooms/R_Tab_4/R_Tab_4.yy",},},
     {"id":{"name":"R_Title_Screen","path":"rooms/R_Title_Screen/R_Title_Screen.yy",},},
     {"id":{"name":"Player_Death","path":"scripts/Player_Death/Player_Death.yy",},},
     {"id":{"name":"Player_Movement","path":"scripts/Player_Movement/Player_Movement.yy",},},
@@ -116,6 +117,7 @@
     {"roomId":{"name":"R_Tab_1","path":"rooms/R_Tab_1/R_Tab_1.yy",},},
     {"roomId":{"name":"R_Tab_2","path":"rooms/R_Tab_2/R_Tab_2.yy",},},
     {"roomId":{"name":"R_Start_Screen","path":"rooms/R_Start_Screen/R_Start_Screen.yy",},},
+    {"roomId":{"name":"R_Tab_4","path":"rooms/R_Tab_4/R_Tab_4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
