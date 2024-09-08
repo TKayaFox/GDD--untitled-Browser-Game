@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sp_flooring_5",
+    "path":"sprites/Sp_flooring_5/Sp_flooring_5.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
