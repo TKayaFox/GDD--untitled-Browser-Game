@@ -10,8 +10,8 @@ if (able_to_move)
 	//Get Key Inputs
 	var moveLeft = -keyboard_check(ord("A"));
 	var moveRight = keyboard_check(ord("D"));
-	var jump = keyboard_check_pressed(ord("W"));
-	var jumpHeld = keyboard_check(ord("W"));
+	var jump = keyboard_check_pressed(ord("W")) || keyboard_check_pressed(vk_space);
+	var jumpHeld = keyboard_check(ord("W")) || keyboard_check(vk_space);
 
 
 	//Speed determination
