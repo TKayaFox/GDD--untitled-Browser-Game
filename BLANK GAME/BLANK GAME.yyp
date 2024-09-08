@@ -42,10 +42,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"CO_ActiveTab","path":"objects/CO_ActiveTab/CO_ActiveTab.yy",},},
     {"id":{"name":"CO_Browser_Exit","path":"objects/CO_Browser_Exit/CO_Browser_Exit.yy",},},
     {"id":{"name":"CO_Browser","path":"objects/CO_Browser/CO_Browser.yy",},},
     {"id":{"name":"CO_Folder_Stuff","path":"objects/CO_Folder_Stuff/CO_Folder_Stuff.yy",},},
@@ -53,6 +54,7 @@
     {"id":{"name":"CO_Recycle","path":"objects/CO_Recycle/CO_Recycle.yy",},},
     {"id":{"name":"CO_Tab1","path":"objects/CO_Tab1/CO_Tab1.yy",},},
     {"id":{"name":"CO_Tab2","path":"objects/CO_Tab2/CO_Tab2.yy",},},
+    {"id":{"name":"CO_Tab3","path":"objects/CO_Tab3/CO_Tab3.yy",},},
     {"id":{"name":"CO_Top_Screen","path":"objects/CO_Top_Screen/CO_Top_Screen.yy",},},
     {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
     {"id":{"name":"O_Controller","path":"objects/O_Controller/O_Controller.yy",},},
