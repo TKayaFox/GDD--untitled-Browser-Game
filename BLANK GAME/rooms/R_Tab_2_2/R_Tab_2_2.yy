@@ -6,7 +6,6 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_25E8A9D5_1_1_1_2","path":"rooms/R_Tab_2_2/R_Tab_2_2.yy",},
     {"name":"inst_765C3C0F_1_1_2","path":"rooms/R_Tab_2_2/R_Tab_2_2.yy",},
     {"name":"inst_28617DE_1_2","path":"rooms/R_Tab_2_2/R_Tab_2_2.yy",},
     {"name":"inst_2276F515_1_2","path":"rooms/R_Tab_2_2/R_Tab_2_2.yy",},
@@ -26,7 +25,6 @@
   "layers":[
     {"$GMRAssetLayer":"","%Name":"Sequence","assets":[],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sequence","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_25E8A9D5_1_1_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_25E8A9D5_1_1_1_2","objectId":{"name":"obj_OLDTVFilter_SVideo","path":"objects/obj_OLDTVFilter_SVideo/obj_OLDTVFilter_SVideo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1344.0,"y":800.0,},
         {"$GMRInstance":"v1","%Name":"inst_28617DE_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_28617DE_1_2","objectId":{"name":"CO_ActiveTab","path":"objects/CO_ActiveTab/CO_ActiveTab.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":455.0,"y":39.0,},
         {"$GMRInstance":"v1","%Name":"inst_2276F515_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2276F515_1_2","objectId":{"name":"CO_Tab1","path":"objects/CO_Tab1/CO_Tab1.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"CO_Tab1","path":"objects/CO_Tab1/CO_Tab1.yy",},"propertyId":{"name":"whichTab","path":"objects/CO_Tab1/CO_Tab1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
