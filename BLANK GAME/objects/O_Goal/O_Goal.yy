@@ -3,6 +3,7 @@
   "%Name":"O_Goal",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Goal",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Goal",
-    "path":"sprites/Sp_Goal/Sp_Goal.yy",
+    "name":"Sp_Goal_1",
+    "path":"sprites/Sp_Goal_1/Sp_Goal_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
