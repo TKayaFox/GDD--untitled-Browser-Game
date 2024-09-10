@@ -13,7 +13,7 @@ grounded = false;
 able_to_move = true;
 invincible = false;
 blink = false;
-
+livesleft = 3;
 
 // Player States
 // Probably should make this an enum

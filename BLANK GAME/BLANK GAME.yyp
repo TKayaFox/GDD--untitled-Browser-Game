@@ -149,6 +149,7 @@
     {"id":{"name":"Sp_start","path":"sprites/Sp_start/Sp_start.yy",},},
     {"id":{"name":"Sp_TabActive","path":"sprites/Sp_TabActive/Sp_TabActive.yy",},},
     {"id":{"name":"Sp_TabDeactive","path":"sprites/Sp_TabDeactive/Sp_TabDeactive.yy",},},
+    {"id":{"name":"Sp_Test_color","path":"sprites/Sp_Test_color/Sp_Test_color.yy",},},
     {"id":{"name":"Sp_Top_Part_Of_Computer","path":"sprites/Sp_Top_Part_Of_Computer/Sp_Top_Part_Of_Computer.yy",},},
     {"id":{"name":"Sp_tutorial_1","path":"sprites/Sp_tutorial_1/Sp_tutorial_1.yy",},},
     {"id":{"name":"Sp_tutorial_2","path":"sprites/Sp_tutorial_2/Sp_tutorial_2.yy",},},
