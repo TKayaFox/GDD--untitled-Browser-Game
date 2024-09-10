@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"P_up_down",
+  "closed":false,
+  "kind":0,
+  "name":"P_up_down",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":320.0,"y":64.0,},
+    {"speed":100.0,"x":320.0,"y":192.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
