@@ -31,6 +31,7 @@
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Goal","folderPath":"folders/Sprites/Goal.yy","name":"Goal","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Sprites/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"obstacle","folderPath":"folders/Sprites/obstacle.yy","name":"obstacle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Sprites/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Shader","folderPath":"folders/Sprites/Shader.yy","name":"Shader","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -43,7 +44,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"BLANK GAME",
   "resources":[
@@ -153,6 +154,9 @@
     {"id":{"name":"Sp_Top_Part_Of_Computer","path":"sprites/Sp_Top_Part_Of_Computer/Sp_Top_Part_Of_Computer.yy",},},
     {"id":{"name":"Sp_tutorial_1","path":"sprites/Sp_tutorial_1/Sp_tutorial_1.yy",},},
     {"id":{"name":"Sp_tutorial_2","path":"sprites/Sp_tutorial_2/Sp_tutorial_2.yy",},},
+    {"id":{"name":"Sp_Virus1","path":"sprites/Sp_Virus1/Sp_Virus1.yy",},},
+    {"id":{"name":"Sp_Virus2","path":"sprites/Sp_Virus2/Sp_Virus2.yy",},},
+    {"id":{"name":"Sp_Virus3","path":"sprites/Sp_Virus3/Sp_Virus3.yy",},},
     {"id":{"name":"Sp_walk_Player","path":"sprites/Sp_walk_Player/Sp_walk_Player.yy",},},
     {"id":{"name":"sprChromatic1","path":"sprites/sprChromatic1/sprChromatic1.yy",},},
     {"id":{"name":"sprChromatic2","path":"sprites/sprChromatic2/sprChromatic2.yy",},},
