@@ -1,6 +1,6 @@
 /// @description "glitch" left and right randomly
 
-var jump_distance = 100;
+var jump_distance = 60;
 
 //set random x-axis jump and new randomized glitch time
 //	Note: time to bottom of screen ~ 13 
