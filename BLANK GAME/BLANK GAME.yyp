@@ -169,7 +169,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
     {"roomId":{"name":"R_EarlyStart","path":"rooms/R_EarlyStart/R_EarlyStart.yy",},},
     {"roomId":{"name":"R_Start_Screen","path":"rooms/R_Start_Screen/R_Start_Screen.yy",},},
     {"roomId":{"name":"R_Tab_1","path":"rooms/R_Tab_1/R_Tab_1.yy",},},
@@ -180,6 +179,7 @@
     {"roomId":{"name":"R_Tab_3_2","path":"rooms/R_Tab_3_2/R_Tab_3_2.yy",},},
     {"roomId":{"name":"R_End_Screen","path":"rooms/R_End_Screen/R_End_Screen.yy",},},
     {"roomId":{"name":"R_Title_Screen","path":"rooms/R_Title_Screen/R_Title_Screen.yy",},},
+    {"roomId":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

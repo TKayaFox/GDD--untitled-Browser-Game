@@ -1,1 +1,2 @@
-/// @description Insert Destroy when outside of room
+/// @description Destroy when outside room
+instance_destroy();
