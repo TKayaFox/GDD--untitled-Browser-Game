@@ -1,4 +1,4 @@
-/// @description Destroy self when picked up by player
+/// @description Start end level sequence
 x = 0
 y = 0
 window_set_cursor(cr_none)	
