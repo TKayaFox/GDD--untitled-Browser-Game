@@ -1,4 +1,5 @@
 // @description Initialize
+ randoSprite = floor(random_range(0,2))
 
 //set random x-axis jump and new randomized glitch time
 //	Note: time to bottom of screen ~ 13 

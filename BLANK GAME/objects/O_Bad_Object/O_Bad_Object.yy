@@ -37,10 +37,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sp_Bad_Object",
-    "path":"sprites/Sp_Bad_Object/Sp_Bad_Object.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

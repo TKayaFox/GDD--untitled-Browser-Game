@@ -3,14 +3,7 @@ if (O_Controller.WhatlevelSet = 0)
 // Go to the room for this tab
 room_goto(R_Tab_1)
 }
-if (O_Controller.WhatlevelSet = 1)
+else
 {
-// Go to the room for this tab
-room_goto(R_Tab_1_2);
-}
-if (O_Controller.WhatlevelSet = 2)
-{
-// Go to the room for this tab
-room_goto(R_End_Screen);
-O_Controller.WhatlevelSet = -1;
+	layer_sequence_create("Sequence",room_width/2,room_height/2 ,Error);
 }
