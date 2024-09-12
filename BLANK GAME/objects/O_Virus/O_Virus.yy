@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Collision",
-    "path":"sprites/Sp_Collision/Sp_Collision.yy",
+    "name":"Sp_Virus1",
+    "path":"sprites/Sp_Virus1/Sp_Virus1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
