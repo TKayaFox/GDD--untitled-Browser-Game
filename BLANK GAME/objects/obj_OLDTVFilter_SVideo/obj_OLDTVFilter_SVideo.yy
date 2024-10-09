@@ -8,8 +8,8 @@
   "name":"obj_OLDTVFilter_SVideo",
   "overriddenProperties":[],
   "parent":{
-    "name":"OLD TV Filter Presets",
-    "path":"folders/Objects/Shaders/OLD TV Filter Presets.yy",
+    "name":"Tv",
+    "path":"folders/Objects/Shaders/Tv.yy",
   },
   "parentObjectId":{
     "name":"obj_OLDTVFilter_PresetBase",
@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprOLDTVFilterIcon",
-    "path":"sprites/sprOLDTVFilterIcon/sprOLDTVFilterIcon.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
